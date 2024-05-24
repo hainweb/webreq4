@@ -1,0 +1,154 @@
+.main-div{
+    width: 100%;
+    height: 1800px;
+    background: white;
+    text-decoration: none;
+   margin: 0;
+}
+.imagetitle{
+    margin-left: 30px;
+    margin-top: -105px;
+    width: 50px;
+}
+.lastimgdiv{
+    margin-top: 50px;
+    margin-left: 50px;
+}
+.detile1{
+    color: white;
+}
+.detile2{
+    color: black;
+}
+.lastdiv1{
+   
+   margin-left: 15px;
+   border-radius: 8px;
+    background:linear-gradient(0deg, rgba(141,29,232,1) 0%, rgba(122,24,242,1) 22%, rgba(0,18,255,1) 100%);
+   
+}
+.lastdiv2{
+    margin-left: 15px;
+    border-radius: 8px;
+    background: linear-gradient(0deg, rgba(241,226,0,1) 0%, rgba(249,255,0,1) 22%, rgba(255,252,21,1) 100%);
+}
+.lastdiv3{
+    margin-left: 15px;
+    border-radius: 8px;
+    background: rgb(35, 35, 35);
+}
+.lastdiv4{
+    margin-left: 15px;
+    border-radius: 8px;
+    background: linear-gradient(0deg, rgba(0,191,241,1) 0%, rgba(0,164,255,1) 22%, rgba(21,45,255,1) 100%);
+}
+.lastimage1{
+border-radius: 30px;
+}
+.textdiv{
+    margin-top: 0px;
+    position: fixed;
+    z-index: 1;
+    padding: 10px;
+   text-align: center;
+    width: 100%;
+    height: 70px;
+    background: black;
+}
+.titletxt{
+    font-style: inherit;
+    font-size: 50px;
+    font-weight: 700;
+    color: rgba(0, 255, 251, 0.882);
+}
+.title{
+    margin-left: 750px;
+    padding-top: 20px;
+    width: 20px;
+    height: 20px;
+}
+.info{
+    margin-left: 30px;
+  padding-top: 30px;
+}
+#name{
+    margin-left: 10px;
+    border-radius: 6px;
+    border: 1px solid gray;
+    width: 200px;
+    height: 45px;
+}
+.form{
+
+   padding: 20px;
+    text-align: center;
+    margin-top: 50px;
+}
+#surname{
+    margin-top: 15px;
+    border-radius: 6px;
+    border: 1px solid gray;
+    margin-left: 55px;
+    width: 195px;
+    height: 40px;
+}
+#phnnum{
+    margin-top: 20px;
+    border-radius: 6px;
+    border: 1px solid gray;
+    margin-left: 10px;
+    width: 195px;
+    height: 48px;
+}
+#statest{
+    margin-top: 20px;
+    border-radius: 6px;
+    border: 1px solid gray;
+    margin-left: 20px;
+    width: 195px;
+    height: 45px;
+}
+#option{
+    margin-top: 20px;
+    border-radius: 6px;
+    border: 1px solid gray;
+    margin-left: 2px;
+    width: 190px;
+    height: 40px;
+}
+#msg{
+    padding-left: 5px;
+    margin-top: 10px;
+    border-radius: 6px;
+    border: 1px solid gray;
+    margin-left: 50px;
+    width: 190px;
+    height: 100px;
+}
+#sbbtn{
+    margin-top: 20px;
+    margin-left: 50px;
+    text-decoration: none;
+    border: none;
+    border-radius: 8px;
+    width: 100px;
+    height: 30px;
+    color: white;
+    background: blue;
+}
+.srbt{
+   margin-left: 250px;
+    margin-top: 90px;
+    border: 1px solid lightgrey;
+    border-radius: 8px;
+    background:rgb(25, 0, 255);
+}
+.dwndiv{
+    width: 100%;
+    height: 60px;
+    background: crimson;
+}
+.instaimg{
+    margin-top: -85px;
+   width: 30px;
+}
